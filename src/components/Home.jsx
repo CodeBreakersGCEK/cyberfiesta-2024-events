@@ -24,7 +24,7 @@ const Home = () => {
                 Let's ignite the future together!
               </div>
               <div className="left-button">
-                <Link to="/navbar" className="left-buttonlink">
+                <Link to="/event" className="left-buttonlink">
                   Register Now
                 </Link>
               </div>
