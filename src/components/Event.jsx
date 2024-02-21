@@ -27,7 +27,7 @@ const Event = () => {
             <br />
             <p>
               
-            Join Cyber Fiesta's CSS Design Challenge! Showcase your creativity, replicate topics with precision, and compete for recognition with responsive designs.
+            Join CSS Design Challenge! Showcase your creativity, replicate topics with precision, and compete for recognition with responsive designs.
             </p>
             <br />
             <p>
