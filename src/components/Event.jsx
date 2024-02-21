@@ -58,7 +58,7 @@ const Event = () => {
             <p>
               <button>
                 <Link
-                  to="https://forms.gle/kYo7KmUmetdABAtJ7"
+                  to="https://forms.gle/HqiFezs4LneixdWBA"
                   className="registerbutton"
                   target="blank"
                 >
@@ -85,7 +85,7 @@ const Event = () => {
             <p>
               <button>
                 <Link
-                  to="https://forms.gle/kYo7KmUmetdABAtJ7"
+                  to="https://forms.gle/to7sjtGzYEPmYjaq7"
                   target="blank"
                   className="registerbutton"
                 >
@@ -112,7 +112,7 @@ const Event = () => {
             <p>
               <button>
                 <Link
-                  to="https://forms.gle/kYo7KmUmetdABAtJ7"
+                  to="https://forms.gle/DYfhk9T8WmzuWmfr8"
                   target="blank"
                   className="registerbutton"
                 >
